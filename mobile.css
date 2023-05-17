@@ -1,0 +1,54 @@
+@media Screen and (max-width: 600px) {
+	.timeline-divider{
+		left: 5%;
+	}
+	.timeline-box{
+		left: 12%;
+		width: 80%;
+		margin-bottom: 20px;
+	}
+	.timeline-box:nth-child(2n){
+		left: 12%;
+		width: 80%;
+		margin-bottom: 20px;
+	}.skills-display{
+		width:70%;
+		display: flex;
+		flex-wrap:wrap ;
+		justify-content: center;
+		height: auto;
+		
+	}
+	.form1{
+		width: 100%;
+		margin-top: 0px;
+	}
+	.form1 form input{
+		width: 90%;
+	}
+	.get-in-touch{
+		width: 100%;
+		align-items: center;
+		justify-content: center;
+	}
+	.get-in-touch p{
+		margin-left: 10px;
+	}
+	.my-address{
+		align-items: center;
+	}
+	.form1 form button{
+		margin-left: 125px;
+		
+	}
+
+	/* project */
+	.projectimg{
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.width{
+		width: 100%;
+	}
+
+}
